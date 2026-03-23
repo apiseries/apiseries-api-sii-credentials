@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.apiseries.api</groupId>
-  <artifactId>apiseries-api-archetype</artifactId>
-  <name>apiseries-api-app-name</name>
+  <artifactId>apiseries-api-channel-credentials</artifactId>
+  <name>apiseries-api-channel-crednetials</name>
   <version>0.1.1</version>
   <description>Microservicio api-gear</description>
   <build>
