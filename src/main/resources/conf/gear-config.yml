@@ -14,36 +14,3 @@ mongodb:
       sort: false
       limit: 0
      
-#
-# smtp
-#
-smtp:
-   hostname:
-   port:
-   username:
-   password:
-   from:
-   templates:
-      sii-list:
-         from:
-         from_title:
-         subject:
-         field:
-         field:
-         field:
-      
-#
-# mailjet
-#
-mailjet:
-   apikey:
-   secretkey:      
-   templates:
-      sii-list:
-         from:
-         from_title:
-         subject:
-         field:
-         field:
-         field:
-      

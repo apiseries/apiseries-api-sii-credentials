@@ -1,5 +1,6 @@
 security:
    ssl: off
+   name: channel-credentials
    # Content-Type: tipo de contenido entrante
    # Accept: Tipo de contenido para la respuesta
    # Authorization: 
